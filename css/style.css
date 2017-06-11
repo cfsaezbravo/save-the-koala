@@ -3,6 +3,8 @@ wood brown: A89F68;
 army green: 41521F;
 */
 
+/*First Section*/ 
+
 .first-section{
 	background-image: url(../img/portada.jpg);
 	height: 100vh;
@@ -19,7 +21,7 @@ army green: 41521F;
 
 .navbar-header a{
 	color: white;
-	text-shadow: 3px 3px 2px #333;
+	text-shadow: 1px 2px 1px #333;
 }
 
 .navbar-nav li a{
@@ -43,4 +45,22 @@ army green: 41521F;
 	color: white;
 	border: none;
 	background-color: #41521F;
+}
+
+/*Second Section*/
+
+#info .container{
+	padding: 5% 3%;
+}
+
+#info .title{
+	color: #A89F68;
+}
+
+.more{
+	color: #A89F68;
+}
+
+.lower{
+	padding-top: 25%;
 }
