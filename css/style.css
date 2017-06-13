@@ -85,3 +85,31 @@ army green: 41521F;
 	border-style: solid;
 	border-width: thick;
 }
+
+.fourth-section{
+  color: #fff;
+  background-image: url(../img/all.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
+.fourth-section .container{
+  padding: 5% 3%;
+}
+
+/* INFO DONATION */
+
+#info-donation .container{
+  padding: 5% 3%;
+}
+#info-donation .title{
+  color: #A89F68;
+  padding-bottom: 2em;
+}
+.icono{
+  color: #A89F68;
+  font-size: 70px;
+  padding: 15px 0;
+}
+
