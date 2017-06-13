@@ -113,3 +113,26 @@ army green: 41521F;
   padding: 15px 0;
 }
 
+/* FOOTER */
+footer{
+  background-color: #41521F;
+  color: #fff;
+}
+.footer{
+  padding: 5% 3%;
+  color:
+}
+.footer .title{
+  color: #A89F68;
+}
+
+.links{
+  list-style: none;
+}
+.links li a{
+  text-decoration: none;
+  color: #A89F68;
+}
+.links li a:hover{
+  color: #fff;
+}
