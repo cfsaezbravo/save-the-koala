@@ -41,7 +41,7 @@ army green: 41521F;
 }
 
 .btn-default{
-	width: 120px;
+	width: 167px;
 	color: white;
 	border: none;
 	background-color: #41521F;
@@ -63,4 +63,25 @@ army green: 41521F;
 
 .lower{
 	padding-top: 25%;
+}
+
+/*Help*/
+
+#help{
+	background-color: #A89F68;
+	color: white;
+}
+
+#help .container{
+	padding: 5% 3%;
+}
+
+.title2{
+	color: #41421F;
+}
+
+#foto-cosita img{
+	border-color: white;
+	border-style: solid;
+	border-width: thick;
 }
